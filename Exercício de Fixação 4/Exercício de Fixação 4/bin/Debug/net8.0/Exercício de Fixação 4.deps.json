@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercício de Fixação 4/1.0.0": {
+        "runtime": {
+          "Exercício de Fixação 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício de Fixação 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

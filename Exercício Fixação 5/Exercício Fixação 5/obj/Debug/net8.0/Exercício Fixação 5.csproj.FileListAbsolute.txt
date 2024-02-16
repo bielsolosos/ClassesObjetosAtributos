@@ -1,0 +1,14 @@
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\obj\Debug\net8.0\Exercício Fixação 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\obj\Debug\net8.0\Exercício Fixação 5.AssemblyInfoInputs.cache
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\obj\Debug\net8.0\Exercício Fixação 5.AssemblyInfo.cs
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\obj\Debug\net8.0\Exercício Fixação 5.csproj.CoreCompileInputs.cache
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\bin\Debug\net8.0\Exercício Fixação 5.exe
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\bin\Debug\net8.0\Exercício Fixação 5.deps.json
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\bin\Debug\net8.0\Exercício Fixação 5.runtimeconfig.json
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\bin\Debug\net8.0\Exercício Fixação 5.dll
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\bin\Debug\net8.0\Exercício Fixação 5.pdb
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\obj\Debug\net8.0\Exercício Fixação 5.dll
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\obj\Debug\net8.0\refint\Exercício Fixação 5.dll
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\obj\Debug\net8.0\Exercício Fixação 5.pdb
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\obj\Debug\net8.0\Exercício Fixação 5.genruntimeconfig.cache
+C:\Gabriel (não mexer)\Enviar no Github dps\Exercício Fixação 5\Exercício Fixação 5\obj\Debug\net8.0\ref\Exercício Fixação 5.dll
